@@ -1,0 +1,6 @@
+jupyter
+langchain-huggingface
+langchain-experimental
+langchain-community
+pypdf
+sentence-transformers
