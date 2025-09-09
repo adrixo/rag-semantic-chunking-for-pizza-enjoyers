@@ -9,6 +9,7 @@ setup:
 	docker compose up -d
 	@echo "following steps at https://supabase.com/docs/guides/self-hosting/docker"
 	@echo "ensure the docker socket is available (see guide)"
+	@echo "then, run on supabase db: create extension if not exists vector;"
 
 start:
 	@echo "Activating virtual environment..."
