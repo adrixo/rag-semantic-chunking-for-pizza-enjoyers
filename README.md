@@ -1,6 +1,6 @@
 # **Are you cutting pizza in the wrong way? 🍕🍕🔪 - Yes**
 
-![Pizza Image](pizza.png)
+<img src="pizza.png" alt="Pizza Image" style="max-width: 500px;">
 
 **Have you ever wondered why you don't retrieve information well when implementing RAG and cutting documents at random places?**
 
