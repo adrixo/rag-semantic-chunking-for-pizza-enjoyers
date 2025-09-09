@@ -8,7 +8,7 @@ setup:
 	docker compose pull
 	docker compose up -d
 	@echo "following steps at https://supabase.com/docs/guides/self-hosting/docker"
-	@echo "ensure the docker socket is available"
+	@echo "ensure the docker socket is available (see guide)"
 
 start:
 	@echo "Activating virtual environment..."
