@@ -18,3 +18,6 @@ start:
 clean:
 	rm -rf venv
 	@echo "Virtual environment removed"
+
+run: 
+	python rag_small_tester.py
