@@ -1,4 +1,6 @@
-## **Are you cutting pizza in the wrong way? 🍕🍕🔪 - Yes**
+# **Are you cutting pizza in the wrong way? 🍕🍕🔪 - Yes**
+
+![Pizza Image](pizza.png)
 
 **Have you ever wondered why you don't retrieve information well when implementing RAG and cutting documents at random places?**
 
