@@ -178,6 +178,7 @@ pyrightconfig.json
 ### Supabase / Database ###
 # Database data directory - contains actual PostgreSQL data files
 supabase-docker/volumes/db/data/
+supabase-docker/volumes/db/
 
 # Supabase logs
 supabase-docker/volumes/logs/
