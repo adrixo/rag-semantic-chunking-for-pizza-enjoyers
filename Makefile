@@ -4,6 +4,10 @@ setup:
 	python -m venv venv
 	@echo "Virtual environment created"
 	./venv/bin/pip install -r requirements.txt
+	cd supabase-docker 
+	docker compose pull
+	docker compose up -d
+	@echo "following steps at https://supabase.com/docs/guides/self-hosting/docker"
 
 start:
 	@echo "Activating virtual environment..."
