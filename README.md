@@ -1,8 +1,7 @@
 # **Are you cutting pizza in the wrong way? 🍕🍕🔪 - Yes**
 
-<img src="pizza.png" alt="Pizza Image" style="max-width: 200px; max-height: 200px;">
-
-**Have you ever wondered why you don't retrieve information well when implementing RAG and cutting documents at random places?**
+| **Have you ever wondered why you don't retrieve information well when implementing RAG and cutting documents at random places?** | ![Pizza Image](pizza.png) |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
 
 Traditional RAG cuts pizza just in 8 pieces, despite this traditional way seems to be fair, take a deep look. You are not splitting ingredients in a smart AI manner
 
